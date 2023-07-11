@@ -1,6 +1,14 @@
 # AppAndroid-TicTacToe-Game-Triki
 Este aplicativo de Android llamado "Tic Tac Toe" (Triki o Tres en Raya) es un juego interactivo desarrollado en el lenguaje de programación Java utilizando el entorno de desarrollo integrado Android Studio. El juego permite a dos jugadores competir para lograr alinear tres de sus símbolos (X u O) en una cuadrícula de 3x3.
 
+## Interfal del aplicativo
+A continuación, se muestran dos imágenes que presentan la interfaz del aplicativo.
+
+![image](https://github.com/DannyRMoreno28/AppAndroid-TicTacToe-Game-Triki/assets/108888740/dca31565-8b18-493b-abd4-67196c7a593a) -
+![image](https://github.com/DannyRMoreno28/AppAndroid-TicTacToe-Game-Triki/assets/108888740/28490bae-d225-4b2c-9b57-8c0b4cf494d4)
+
+
+## Descripción del código fuente del aplicativo
 El código fuente del aplicativo se encuentra en el archivo MainActivity.java (app/src/main/java/com/example/triki/MainActivity.java). A continuación, se proporciona una descripción de las principales características y funciones de este código:
 
 * El método ***onCreate*** se ejecuta cuando la actividad se crea e inicializa los elementos de la interfaz y las variables necesarias para el juego.
@@ -18,4 +26,4 @@ El archivo de diseño ***activity_main.xml*** contiene la estructura de la inter
 
 Para ejecutar este aplicativo, es necesario tener instalado Android Studio y configurar un emulador o dispositivo Android para la depuración. Se recomienda compilar y ejecutar el código en una versión de Android compatible.
 
-¡Diviértete jugando al "Tres en Raya" con este aplicativo!
+¡Diviértete jugando "Triki", "Tres en Raya" o "Tic Tac Toe" con este aplicativo!
